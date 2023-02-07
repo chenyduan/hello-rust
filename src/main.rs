@@ -17,6 +17,15 @@ mod a9_syq;
 mod a3a_string;
 mod a9a_yinyong;
 mod a10_struct;
+mod a10a_enum;
+mod a11_method;
+mod a12_generics;
+mod a12a_crate;
+mod a13_error;
+mod a14_thread;
+mod a15_vetor;
+mod a16_mod_pkg_crate;
+mod a16a_mod2mod;
 
 
 //main函数
